@@ -62,7 +62,7 @@ Start를 누르고 기다리면 완료됩니다.
 
 * 디스크 파티셔닝
 
-![Win_Par_Before](/images/8.Win_Par_Before)
+![Win_Par_Before](/images/8.Win_Par_Before.jpg)
 
 우분투를 설치할 공간을 만들어주기 위해 Windows 공간을 축소해야 합니다. 
 Win + X키를 눌러 디스크 관리자 (Disk Management)를 엽니다. 
@@ -80,12 +80,12 @@ Win + X키를 눌러 디스크 관리자 (Disk Management)를 엽니다.
 
      >>> 92.5GB (94,720MB)의 빈 공간이 필요합니다.
 
-![Win_Par_During](/images/9.Win_Par_During)
+![Win_Par_During](/images/9.Win_Par_During.jpg)
 
 기존 Windows 파티션에서 94,720MB의 공간을 밀어낼 것입니다. 
 볼륨 축소 -> 설정 후 확인하면 빈 공간이 생깁니다. 
 
-![Win_Par_After](/images/10.Win_Par_After)
+![Win_Par_After](/images/10.Win_Par_After.jpg)
 
 설치 공간과 USB를 만들었으므로 Windows에서의 작업은 끝났습니다. 
 이제, USB로 부팅해야합니다. 

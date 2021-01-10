@@ -3,7 +3,7 @@ title: Ubuntu 20.04 LTS 멀티부팅 (On Windows 10 20H2)
 categories:
   - linux
 tags:
-  - linux, ubuntu
+  - [linux, Ubuntu, Multiboot]
 ---
 
 # 들어가기 전
